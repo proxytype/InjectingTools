@@ -8,5 +8,5 @@ https://github.com/proxytype/Process-Spoof-C-
 Translate from PowerShell from this repository <br />
 https://github.com/countercept/ppid-spoofing/
 
-## ShourtcutSpoof.cs ## 
+## ShortcutSpoof.cs ## 
 **Overwrite desktop shortcuts and preserve original**
