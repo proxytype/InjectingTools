@@ -9,4 +9,4 @@ Translate From PowerShell from this repository <br />
 https://github.com/countercept/ppid-spoofing/
 
 ## ShourtcutSpoof.cs ## 
-**Overwrite desktop shortcuts and preseve original**
+**Overwrite desktop shortcuts and preserve original**
