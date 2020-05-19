@@ -2,11 +2,11 @@
 Injection Techniques Using C#
 
 ## PidSpoof.cs ##  
-*create child process in other process* <br />
+**Create child process in other process** <br />
 https://github.com/proxytype/Process-Spoof-C-
 
-Translate From PowerShell from this repository
+Translate From PowerShell from this repository <br />
 https://github.com/countercept/ppid-spoofing/
 
-## ShourtcutSpoof.cs ##
-*overwrite desk top shortcuts and preseve original*
+## ShourtcutSpoof.cs ## <br />
+*Overwrite desktop shortcuts and preseve original*
