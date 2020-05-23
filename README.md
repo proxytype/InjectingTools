@@ -12,5 +12,5 @@ https://github.com/countercept/ppid-spoofing/
 **Overwrite desktop shortcuts and preserve original**
 
 ## UACBypass.cs ## 
-**Translate to c# application**<br />
+**Translate to c# console application**<br />
 https://0x00-0x00.github.io/research/2018/10/31/How-to-bypass-UAC-in-newer-Windows-versions.html
