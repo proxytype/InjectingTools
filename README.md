@@ -14,3 +14,6 @@ https://github.com/countercept/ppid-spoofing/
 ## UACBypass.cs ## 
 **Translate to c# console application**<br />
 https://0x00-0x00.github.io/research/2018/10/31/How-to-bypass-UAC-in-newer-Windows-versions.html
+
+## InjectDLL.cs ## 
+**Old school injection using windows native function still relevant today**<br />
