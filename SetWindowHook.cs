@@ -60,11 +60,7 @@ namespace dllinject
                     destroyHook();
                 }
             }
-            else
-            {
-                destroyHook();
-            }
-
+          
         }
 
         public void destroyHook()
