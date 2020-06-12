@@ -19,4 +19,4 @@ https://0x00-0x00.github.io/research/2018/10/31/How-to-bypass-UAC-in-newer-Windo
 **Old school injection using windows native function still relevant today**<br />
 
 ## SetWindowHook.cs ## 
-**Inject dll by hooking WindowHookEx**<br />
+**Inject dll by hooking WindowsHookEx**<br />
