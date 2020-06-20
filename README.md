@@ -23,3 +23,4 @@ https://0x00-0x00.github.io/research/2018/10/31/How-to-bypass-UAC-in-newer-Windo
 
 ## IATHookPayload.cpp ##
 **Simple payload overwrite original function with payload function**<br />
+https://guidedhacking.com/threads/how-to-hook-import-address-table-iat-hooking.13555/
